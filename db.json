@@ -28,6 +28,8 @@
 			],
 			"challans": [
 				{
+					"name": "Uzair Ansari",
+					"mobile_number": "7271880500",
 					"reason": "Speeding",
 					"amount": 2000,
 					"start_date": "2023-04-20T00:00:00.000Z",
@@ -36,6 +38,8 @@
 					"id": 1
 				},
 				{
+					"name": null,
+					"mobile_number": null,
 					"reason": "Parking violation",
 					"amount": 1200,
 					"start_date": "2023-05-10T00:00:00.000Z",
@@ -44,6 +48,8 @@
 					"id": 2
 				},
 				{
+					"name": "Uzair Ansari",
+					"mobile_number": "7271880500",
 					"reason": "Parking violation",
 					"amount": 1200,
 					"start_date": "2023-05-10T00:00:00.000Z",
@@ -52,6 +58,8 @@
 					"id": 3
 				},
 				{
+					"name": null,
+					"mobile_number": null,
 					"reason": "Parking violation",
 					"amount": 1200,
 					"start_date": "2023-05-10T00:00:00.000Z",
@@ -98,6 +106,8 @@
 			],
 			"challans": [
 				{
+					"name": "Uzair Ansari",
+					"mobile_number": "7271880500",
 					"reason": "Not Wearing Helmet",
 					"amount": 2000,
 					"start_date": "2023-04-20T00:00:00.000Z",
@@ -106,6 +116,8 @@
 					"id": 1
 				},
 				{
+					"name": null,
+					"mobile_number": null,
 					"reason": "Parking violation",
 					"amount": 1200,
 					"start_date": "2023-05-10T00:00:00.000Z",
